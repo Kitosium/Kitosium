@@ -4,11 +4,11 @@
 ## 🤔 What can I do?
 ```ts
 export const ICanDo = (): string => {
-  const languages = 'JavaScript, TypeScript, Rust, Python, Pascal';
-  const frameworks = 'NodeJS, ReactJS, NextJS, TailwindCSS, Framer Motion';
+  const languages = 'JavaScript, TypeScript, Rust, Python, CPP';
+  const frameworks = 'NodeJS, ReactJS, NextJS, TailwindCSS';
   const databases = 'MongoDB, MySQL, PostgresSQL';
   const tools = 'Visual Studio Code, IntelliJ IDEA';
-  const design = 'Photoshop, Aseprite, Figma';
+  const design = 'Photoshop, Figma';
   const systems = 'Windows, Linux (Ubuntu, Arch)';
 
   return [languages, frameworks, databases, tools, design, systems].join('\n');
