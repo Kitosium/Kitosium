@@ -4,7 +4,7 @@
 ## 🤔 What can I do?
 ```ts
 export const ICanDo = (): string => {
-  const languages = 'JavaScript, TypeScript, Rust, Python, CPP';
+  const languages = 'JavaScript, TypeScript, Rust, Python';
   const frameworks = 'NodeJS, ReactJS, NextJS, TailwindCSS';
   const databases = 'MongoDB, MySQL, PostgresSQL';
   const tools = 'Visual Studio Code, IntelliJ IDEA';
