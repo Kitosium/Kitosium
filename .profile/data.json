@@ -1,0 +1,255 @@
+{
+ "key": "bc0d34ee",
+ "stars": 28,
+ "contributions": 38,
+ "repos": 9,
+ "followers": 17,
+ "languages": [
+  [
+   "TypeScript",
+   641381
+  ],
+  [
+   "Python",
+   261113
+  ],
+  [
+   "JavaScript",
+   77654
+  ],
+  [
+   "Lua",
+   72681
+  ],
+  [
+   "Rust",
+   28145
+  ],
+  [
+   "CSS",
+   15161
+  ],
+  [
+   "HTML",
+   943
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 16,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 3
+ },
+ "pins": [
+  {
+   "name": "eqdraw",
+   "url": "https://github.com/Kitosium/eqdraw",
+   "text": "Plot the GRAPH on your TERMINAL",
+   "fork": false,
+   "stars": 18,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "lazy-quest",
+   "url": "https://github.com/Kitosium/lazy-quest",
+   "text": "Complete ALL Discord QUEST for YOU",
+   "fork": false,
+   "stars": 3,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "maft",
+   "url": "https://github.com/Kitosium/maft",
+   "text": "MAFT is a MATH formula LIBRARY",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "splyric",
+   "url": "https://github.com/Kitosium/splyric",
+   "text": "A CLI app to display LYRICS for the CURRENTLY PLAYING song on SPOTIFY",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "eqdraw",
+   "url": "https://github.com/Kitosium/eqdraw",
+   "text": "Plot the GRAPH on your TERMINAL",
+   "fork": false,
+   "stars": 18,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "Kitosium",
+   "url": "https://github.com/Kitosium/Kitosium",
+   "text": "CUSTOMIZE Github PROFILE",
+   "fork": false,
+   "stars": 4,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "lazy-quest",
+   "url": "https://github.com/Kitosium/lazy-quest",
+   "text": "Complete ALL Discord QUEST for YOU",
+   "fork": false,
+   "stars": 3,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "view-wrapped",
+   "url": "https://github.com/Kitosium/view-wrapped",
+   "text": "View WRAPPED Spotify, Tiktok,...",
+   "fork": false,
+   "stars": 3,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "history-world-map",
+   "url": "https://github.com/Kitosium/history-world-map",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "arch-dotfiles",
+   "url": "https://github.com/Kitosium/arch-dotfiles",
+   "text": "Termux + Arch Linux ARM dotfiles",
+   "fork": false,
+   "stars": 0,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "kjs",
+   "url": "https://github.com/Kitosium/kjs",
+   "text": "What if...?",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "maft",
+   "url": "https://github.com/Kitosium/maft",
+   "text": "MAFT is a MATH formula LIBRARY",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "splyric",
+   "url": "https://github.com/Kitosium/splyric",
+   "text": "A CLI app to display LYRICS for the CURRENTLY PLAYING song on SPOTIFY",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  }
+ ]
+}
