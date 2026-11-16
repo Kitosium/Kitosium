@@ -1,11 +1,11 @@
-### 👀 Who am I?
-💐 I'm **Kito**, from **Can Tho City - Vietnam**! 🇻🇳<br>
-📚 I luv **Math** & **Physics**<br>
-🖥️ **Language** `.ts` `.rs` `.py`
+<div align="center">
 
-### 👋 The end?
-> Nơi tôi có EM là trong GIẤC MƠ <br>
-> Thứ GIẾT CHẾT chúng ta là KỶ NIỆM <br>
-> You are my ☀️, my 🌙 and all my ⭐'s
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Kitosium"></picture>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub Activity"></picture>
+
+<a href="https://metawka.github.io/expressive-profile/?from=Kitosium"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
+</div>
